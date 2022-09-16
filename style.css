@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+    max-width: 50%;
+    margin: auto;
+    color: #333;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.naruto {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.title {
+    flex: 1;
+    margin: 20px;
+}
+
+.name {
+    color: grey;
+}
+
+.coral {
+    color: coral;
+}
+
+.uzumaki {
+    border: 2px solid coral;
+}
+
+.quali {
+    letter-spacing: 1px;
+}
+
+.margin {
+    margin-top: 20px;
+}
+
+.heading {
+    min-width: 300px;
+    display: block;
+    font-size: 22px;
+    color: coral;
+}
+
+.jobheading {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.date {
+    font-weight: 300;
+    line-height: 25px;
+}
+
+.desc {
+    margin-top: 20px;
+}
